@@ -1,0 +1,23 @@
+{
+  "name": "wordblitz",
+  "version": "1.0.0",
+  "description": "Hello world new project template.",
+  "main": "index.js",
+  "dependencies": {
+    "@colyseus/schema": "^0.5.40"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek91fantasy/wordBlitz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek91fantasy/wordBlitz/issues"
+  },
+  "homepage": "https://github.com/vivek91fantasy/wordBlitz#readme"
+}
