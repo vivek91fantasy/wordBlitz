@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "b29dcd58-d96c-465d-8383-c3fe600b97d9",
+  "uuid": "4f13613c-a836-4b04-8e5c-e0d5eefc1a37",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "Togal_Header": {
       "ver": "1.0.4",
-      "uuid": "3cb68a87-f158-4777-8d14-62979b9aaf0d",
+      "uuid": "f6ee4695-a059-40f7-a182-31eedb2486c5",
       "rawTextureUuid": "b29dcd58-d96c-465d-8383-c3fe600b97d9",
       "trimType": "auto",
       "trimThreshold": 1,

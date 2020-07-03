@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "fc78641a-549e-4004-8fcb-3ad46a2e0fa3",
+  "uuid": "871f4b86-4924-46e1-9235-cd294dbf6c07",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "MAin_Game_BG": {
       "ver": "1.0.4",
-      "uuid": "7574ac36-f823-4796-9b15-b09d6340936d",
+      "uuid": "e6a01316-a313-49a1-ba1b-6b95469fec15",
       "rawTextureUuid": "fc78641a-549e-4004-8fcb-3ad46a2e0fa3",
       "trimType": "auto",
       "trimThreshold": 1,

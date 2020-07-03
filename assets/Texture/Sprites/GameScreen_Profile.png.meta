@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "c8de2b90-8b64-4345-af76-fff71798cf2e",
+  "uuid": "20150288-3340-4d04-803d-a05cb5a7359b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "GameScreen_Profile": {
       "ver": "1.0.4",
-      "uuid": "b13d0400-ba5e-46fb-824b-28848c917f4d",
+      "uuid": "79ca60b2-91a6-44ef-87b8-0386180427eb",
       "rawTextureUuid": "c8de2b90-8b64-4345-af76-fff71798cf2e",
       "trimType": "auto",
       "trimThreshold": 1,

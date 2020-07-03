@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "5c9b7546-523b-430c-92eb-6ec1479db140",
+  "uuid": "8531a84c-06c3-41aa-b6e4-9fb61ac8efa7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "Game91_Chip": {
       "ver": "1.0.4",
-      "uuid": "11743553-7b55-411f-b8e5-0409e1590936",
+      "uuid": "0c3fab6b-4103-45d0-8903-735dbbcbaeb3",
       "rawTextureUuid": "5c9b7546-523b-430c-92eb-6ec1479db140",
       "trimType": "auto",
       "trimThreshold": 1,

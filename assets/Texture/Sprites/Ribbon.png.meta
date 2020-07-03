@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "56de59fa-4af3-4dea-a695-820ffd37aed2",
+  "uuid": "6a6ea753-489e-4e78-8f6f-b11b0a12ebb6",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "Ribbon": {
       "ver": "1.0.4",
-      "uuid": "6e9e6e8e-2c1d-4c27-833c-a6008b7fd91f",
+      "uuid": "fd300699-f954-4e27-b38a-cdb67e7a7501",
       "rawTextureUuid": "56de59fa-4af3-4dea-a695-820ffd37aed2",
       "trimType": "auto",
       "trimThreshold": 1,

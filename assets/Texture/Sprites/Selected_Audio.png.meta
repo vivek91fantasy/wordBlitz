@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "35487139-cb6c-4bb4-bfee-7aa5562c4041",
+  "uuid": "6b87b829-41f4-4ab7-a7ca-af7c60bb5052",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "Selected_Audio": {
       "ver": "1.0.4",
-      "uuid": "3cf47d55-6faf-4c7e-bec3-84ad063444ad",
+      "uuid": "1a41a1f4-2796-44f9-9593-0fba1167f125",
       "rawTextureUuid": "35487139-cb6c-4bb4-bfee-7aa5562c4041",
       "trimType": "auto",
       "trimThreshold": 1,

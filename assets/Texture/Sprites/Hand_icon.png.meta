@@ -1,6 +1,6 @@
 {
   "ver": "2.3.4",
-  "uuid": "149e943a-b38a-4d74-9d64-6bd2887a56cf",
+  "uuid": "d174d60c-6061-43e8-9562-06c6f4d97766",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,7 +13,7 @@
   "subMetas": {
     "Hand_icon": {
       "ver": "1.0.4",
-      "uuid": "50c93e10-92b8-40a6-9349-7320d507e175",
+      "uuid": "8ab91f31-09e6-4b5c-99c1-a401fd22f923",
       "rawTextureUuid": "149e943a-b38a-4d74-9d64-6bd2887a56cf",
       "trimType": "auto",
       "trimThreshold": 1,
