@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5c9b7546-523b-430c-92eb-6ec1479db140",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 169,
+  "height": 169,
+  "platformSettings": {},
+  "subMetas": {
+    "Game91_Chip": {
+      "ver": "1.0.4",
+      "uuid": "11743553-7b55-411f-b8e5-0409e1590936",
+      "rawTextureUuid": "5c9b7546-523b-430c-92eb-6ec1479db140",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 169,
+      "height": 169,
+      "rawWidth": 169,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

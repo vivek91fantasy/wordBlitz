@@ -12,17 +12,9 @@ import * as Colyseus from "colyseus";
 @ccclass
 export default class Network extends cc.Component {
 
-    @property(cc.Label)
-    label: cc.Label = null;
-
-    @property
-    text: string = 'hello';
+ 
 
     client: Colyseus.Client;
-
-    // LIFE-CYCLE CALLBACKS:
-
-    // onLoad () {}
 
     start () {
         console.log("state called");
