@@ -5,13 +5,17 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-import { PopUpType } from "./PopupManager";
-
-
-
 const {ccclass, property} = cc._decorator;
 
-export default interface IPopupBase{
-    show(data: Object, callBack: Function): void;
-    hide(data: any, callBack: Function): void;
-}
+@ccclass
+export default class CCCMap {
+
+        @property(cc.String)
+        key = "";
+        @property({
+            type: cc.Class
+        })
+        value;
+     
+    }
+
