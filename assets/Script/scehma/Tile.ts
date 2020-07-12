@@ -8,6 +8,7 @@
 import { Schema, type, ArraySchema, MapSchema, DataChange } from "@colyseus/schema";
 
 
+
 export class Tile extends Schema {
     @type("string") public letter: string;
 }
